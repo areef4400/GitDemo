@@ -2,4 +2,4 @@
 
 This is my Git repository for practising
 
-Author - Areef
+Author - Mohammed Areef
